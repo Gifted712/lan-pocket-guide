@@ -1,5 +1,5 @@
 /* LAN Pocket Guide — offline support. Change VERSION whenever any file changes. */
-const VERSION='2026-10-21.1';
+const VERSION='2026-10-21.2';
 const CACHE='lan-guide-'+VERSION;
 const FILES=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./icon-maskable-512.png','./apple-touch-icon.png','./favicon-32.png'];
 
